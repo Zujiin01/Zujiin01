@@ -21,6 +21,4 @@ You need a server (Linux). Everything is public, tested, and free for **non-comm
 
 ## Contact
 
-Commercial use or questions: didierjean@gnetics.ca
-
-*Francais : trois outils gratuits pour travailler avec son IA (Claude mobile, Grok mobile) sur son propre serveur, depuis son telephone.*
+For commercial use, write to Technologies GNETICS Inc.: didierjean@gnetics.ca
